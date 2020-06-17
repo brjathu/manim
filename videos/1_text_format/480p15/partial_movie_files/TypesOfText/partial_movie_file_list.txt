@@ -1,0 +1,2 @@
+file '/tmp/input/videos/1_text_format/480p15/partial_movie_files/TypesOfText/00000.mp4'
+file '/tmp/input/videos/1_text_format/480p15/partial_movie_files/TypesOfText/00001.mp4'

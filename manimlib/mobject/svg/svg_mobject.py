@@ -55,7 +55,9 @@ class SVGMobject(VMobject):
             os.path.join(os.path.join("assets", "svg_images"), self.file_name + ".xdv"),
             self.file_name,
         ]
+        # raise IOError(possible_paths)
         for path in possible_paths:
+
             if os.path.exists(path):
                 self.file_path = path
                 return
